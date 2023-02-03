@@ -1,4 +1,5 @@
-# Spider Forrest
+Spider Forrest
+===
 
 ----
 
@@ -6,7 +7,8 @@
 
 ----
 
-## Experience
+Experience
+---
 
 2022-2023
 :   **[Alchemy Code Lab]**: An intensive fullstack training program.
@@ -27,12 +29,17 @@
 [Kroger]: (https://www.kroger.com/)
 [Northshore Senior Center]: (https://www.northshoreseniorcenter.org/)
 
-## Web Development Tech Stack
+Web Development Tech Stack
+---
 
-:   **HTML**, **JavaScript**, **CSS**, **React** 5/6, **NodeJs**, **SQL** (PostgreSQL)
+Languages
+:   **HTML**, **JavaScript**, **TypeScript**, **CSS**, **React** 5/6, **NodeJs**
+
+Tools
 :   **git**, **Github**, **Vim**, **VSCode**, **Figma**
 
-## Skills
+Skills
+---
  
 :   Over a decade of experience in managing Linux systems-administration, automation, configuration,
 setup, diagnosing issues and implementing fixes.
